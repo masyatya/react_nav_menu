@@ -1,0 +1,61 @@
+.button {
+  cursor: pointer;
+  padding: 0 35px;
+  height: 45px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  text-transform: uppercase;
+  background-color: #ffc900;
+  border: 1px solid #ffc900;
+  border-radius: 3px;
+  transition: 0.2s;
+
+  &:hover {
+    color: #ffc900;
+    background-color: #000000;
+  }
+
+  &__login {
+    margin-right: 50px;
+    color: #ffc900;
+    background-color: #000000;
+
+    &:hover {
+      color: #000000;
+      background-color: #ffc900;
+    }
+  }
+
+  @media (max-width: 992px) {
+    & {
+      font-size: 18px;
+      padding: 0 25px;
+    }
+
+    &__login {
+      margin-right: 20px;
+    }
+  }
+
+  @media (max-width: 765px) {
+    & {
+      height: 30px;
+      font-size: 15px;
+      font-weight: normal;
+      padding: 0 15px;
+    }
+  }
+
+  @media (max-width: 479px) {
+    & {
+      height: 22px;
+      font-size: 12px;
+      padding: 0 10px;
+    }
+
+    &__login {
+      margin-right: 15px;
+    }
+  }
+}

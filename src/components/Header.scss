@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 100px;
+  background-color: #000000;
+
+  &__logo {
+    position: relative;
+    width: 140px;
+    transition: 0.1s;
+
+    &:hover {
+      opacity: 0.9;
+    }
+  }
+
+  &__menu {
+    display: flex;
+  }
+
+  &__buttons {
+    display: flex;
+    align-items: center;
+  }
+
+  @media (max-width: 765px) {
+    & {
+      height: 70px;
+      align-items: center;
+    }
+
+    &__logo {
+      width: 100px;
+    }
+  }
+
+  @media (max-width: 479px) {
+    & {
+      height: 60px;
+    }
+
+    &__logo {
+      width: 60px;
+    }
+  }
+}
