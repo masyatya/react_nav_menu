@@ -1,19 +1,28 @@
 {
   "files": {
-    "main.js": "/react_nav_menu/static/js/main.b6debd70.chunk.js",
-    "main.js.map": "/react_nav_menu/static/js/main.b6debd70.chunk.js.map",
+    "main.css": "/react_nav_menu/static/css/main.1860ee24.chunk.css",
+    "main.js": "/react_nav_menu/static/js/main.f58f52fd.chunk.js",
+    "main.js.map": "/react_nav_menu/static/js/main.f58f52fd.chunk.js.map",
     "runtime-main.js": "/react_nav_menu/static/js/runtime-main.88b878c9.js",
     "runtime-main.js.map": "/react_nav_menu/static/js/runtime-main.88b878c9.js.map",
-    "static/js/2.2e17a3d7.chunk.js": "/react_nav_menu/static/js/2.2e17a3d7.chunk.js",
-    "static/js/2.2e17a3d7.chunk.js.map": "/react_nav_menu/static/js/2.2e17a3d7.chunk.js.map",
+    "static/js/2.9a4603c0.chunk.js": "/react_nav_menu/static/js/2.9a4603c0.chunk.js",
+    "static/js/2.9a4603c0.chunk.js.map": "/react_nav_menu/static/js/2.9a4603c0.chunk.js.map",
     "index.html": "/react_nav_menu/index.html",
-    "precache-manifest.bb6a9a6c82fd1a19637af76bd295a083.js": "/react_nav_menu/precache-manifest.bb6a9a6c82fd1a19637af76bd295a083.js",
+    "precache-manifest.e8f008fb4f77af71724edbd4ab5f8b43.js": "/react_nav_menu/precache-manifest.e8f008fb4f77af71724edbd4ab5f8b43.js",
     "service-worker.js": "/react_nav_menu/service-worker.js",
-    "static/js/2.2e17a3d7.chunk.js.LICENSE.txt": "/react_nav_menu/static/js/2.2e17a3d7.chunk.js.LICENSE.txt"
+    "static/css/main.1860ee24.chunk.css.map": "/react_nav_menu/static/css/main.1860ee24.chunk.css.map",
+    "static/js/2.9a4603c0.chunk.js.LICENSE.txt": "/react_nav_menu/static/js/2.9a4603c0.chunk.js.LICENSE.txt",
+    "static/media/bank.svg": "/react_nav_menu/static/media/bank.0ed70f8b.svg",
+    "static/media/bank_hover.svg": "/react_nav_menu/static/media/bank_hover.6c246cf1.svg",
+    "static/media/card.svg": "/react_nav_menu/static/media/card.64fe55f5.svg",
+    "static/media/card_hover.svg": "/react_nav_menu/static/media/card_hover.6101e6c2.svg",
+    "static/media/human.svg": "/react_nav_menu/static/media/human.d6531f14.svg",
+    "static/media/human_hover.svg": "/react_nav_menu/static/media/human_hover.dc60010e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.88b878c9.js",
-    "static/js/2.2e17a3d7.chunk.js",
-    "static/js/main.b6debd70.chunk.js"
+    "static/js/2.9a4603c0.chunk.js",
+    "static/css/main.1860ee24.chunk.css",
+    "static/js/main.f58f52fd.chunk.js"
   ]
 }
