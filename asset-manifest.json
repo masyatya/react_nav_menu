@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react_nav_menu/static/css/main.1860ee24.chunk.css",
+    "main.css": "/react_nav_menu/static/css/main.24c9b349.chunk.css",
     "main.js": "/react_nav_menu/static/js/main.f58f52fd.chunk.js",
     "main.js.map": "/react_nav_menu/static/js/main.f58f52fd.chunk.js.map",
     "runtime-main.js": "/react_nav_menu/static/js/runtime-main.88b878c9.js",
@@ -8,9 +8,9 @@
     "static/js/2.9a4603c0.chunk.js": "/react_nav_menu/static/js/2.9a4603c0.chunk.js",
     "static/js/2.9a4603c0.chunk.js.map": "/react_nav_menu/static/js/2.9a4603c0.chunk.js.map",
     "index.html": "/react_nav_menu/index.html",
-    "precache-manifest.e8f008fb4f77af71724edbd4ab5f8b43.js": "/react_nav_menu/precache-manifest.e8f008fb4f77af71724edbd4ab5f8b43.js",
+    "precache-manifest.74f4ddaa5b27b68b7111d5374c8e20c0.js": "/react_nav_menu/precache-manifest.74f4ddaa5b27b68b7111d5374c8e20c0.js",
     "service-worker.js": "/react_nav_menu/service-worker.js",
-    "static/css/main.1860ee24.chunk.css.map": "/react_nav_menu/static/css/main.1860ee24.chunk.css.map",
+    "static/css/main.24c9b349.chunk.css.map": "/react_nav_menu/static/css/main.24c9b349.chunk.css.map",
     "static/js/2.9a4603c0.chunk.js.LICENSE.txt": "/react_nav_menu/static/js/2.9a4603c0.chunk.js.LICENSE.txt",
     "static/media/bank.svg": "/react_nav_menu/static/media/bank.0ed70f8b.svg",
     "static/media/bank_hover.svg": "/react_nav_menu/static/media/bank_hover.6c246cf1.svg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.88b878c9.js",
     "static/js/2.9a4603c0.chunk.js",
-    "static/css/main.1860ee24.chunk.css",
+    "static/css/main.24c9b349.chunk.css",
     "static/js/main.f58f52fd.chunk.js"
   ]
 }
